@@ -1,2 +1,3 @@
-# fast-cli-tool-77ry
-Automated issue comment bot repository
+# Fast Cli Tool 77Ry
+
+Automated issue comment bot repository.
